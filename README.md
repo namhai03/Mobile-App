@@ -4,4 +4,4 @@
 2: Đào Nguyễn Thảo Quyên - 21011628
 ## Nhiệm vụ:  
 - Nộp bài tập về nhà hàng tuần
-- Nộp bài tập lớn môn: Lập trình thiết bị di động
+- Nộp bài tập lớn môn: Lập trình cho thiết bị di động-1-2-22(N03)
